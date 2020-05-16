@@ -1,3 +1,7 @@
+# fullstackGql_back
+Simple GraphQL fullstack app example, to run the frontend, you can use 'npm start'
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
